@@ -63,6 +63,9 @@ Open your [fastAPI app](http://localhost:8000)
 }
 ```
 ## Load the Docker image of this app
+Image link in [docker hub](https://hub.docker.com/repository/registry-1.docker.io/amadouldiallo/fastapi/general)
+```
+docker pull amadouldiallo/fastapi
+```
 
-> docker pull amadouldiallo/fastapi 
 
