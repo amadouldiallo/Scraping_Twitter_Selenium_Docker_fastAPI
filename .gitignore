@@ -1,5 +1,5 @@
 drivers/
-**/.DS_Store
-**/.idea/
+.DS_Store
+.idea/
 *.pyc
-__pycache__/
+__pycache__
