@@ -54,7 +54,7 @@ docker run -tid -p 8000:80 --name [name_container] name_image
 
 Open your [fastAPI app](http://localhost:8000)
 
->Finally navigate through[http://localhost:8000/docs](http://localhost:8000/docs) for inference
+>Finally navigate through [http://localhost:8000/docs](http://localhost:8000/docs) for inference
 
 ```json5:
 {
